@@ -1,2 +1,2 @@
-# math33b
+# Differential Equations
 Math 33b - Differential Equations
